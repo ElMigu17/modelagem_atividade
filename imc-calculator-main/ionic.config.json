@@ -1,5 +1,7 @@
 {
-  "name": "myApp",
-  "integrations": {},
-  "type": "angular"
+  "name": "IMC_Vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
 }
